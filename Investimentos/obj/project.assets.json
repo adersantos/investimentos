@@ -442,11 +442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aders\\source\\repos\\Investimentos\\Investimentos\\Investimentos.csproj",
+      "projectUniqueName": "C:\\Projetos\\investimentos\\Investimentos\\Investimentos.csproj",
       "projectName": "Investimentos",
-      "projectPath": "C:\\Users\\aders\\source\\repos\\Investimentos\\Investimentos\\Investimentos.csproj",
+      "projectPath": "C:\\Projetos\\investimentos\\Investimentos\\Investimentos.csproj",
       "packagesPath": "C:\\Users\\aders\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aders\\source\\repos\\Investimentos\\Investimentos\\obj\\",
+      "outputPath": "C:\\Projetos\\investimentos\\Investimentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aders\\AppData\\Roaming\\NuGet\\NuGet.Config",
